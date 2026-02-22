@@ -15,11 +15,11 @@ global.setting = {
 
 global.info = {
  nomerbot : '212705680210',
- pairingNumber : '212605784394',
+ pairingNumber : '212705680210',
  figlet: 'silanalite', // create a start console display
- nomorwa : '212605784394',
- nameown : 'NOUREDDINE',
- nomerown : '212717457920',
+ nomorwa : '212705680210',
+ nameown : 'ZOHIR_ELBARTOULI',
+ nomerown : '212689778046',
  packname : 'sticker by ',
  author : 'SILANA AI',
  namebot : '乂 SILANA AI',
